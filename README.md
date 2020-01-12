@@ -12,6 +12,7 @@ yarn serve
 
 # Features
 
+## Vuex Router
 ## Vuex Store and modularizing the state management
 ## Clean Code
 ## Best Practices in folder structure
