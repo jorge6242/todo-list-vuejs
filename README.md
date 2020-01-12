@@ -1,4 +1,4 @@
-# vuejs-todo
+# Todo List with VueJS
 
 ## Project setup
 ```
@@ -10,15 +10,12 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# Features
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Vuex Store and modularizing the state management
+## Clean Code
+## Best Practices in folder structure
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
